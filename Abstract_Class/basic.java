@@ -1,6 +1,6 @@
 public class basic {
     public static void main(String args[]){
-        classes c=new classes();
-        c.hi();
+       class1 x=new class1();
+        x.hi();
     }
 }

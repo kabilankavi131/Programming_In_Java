@@ -4,7 +4,6 @@ class BatsMan{
         runs=data;
     }
 }
-
 class Kholi extends BatsMan{
     void printRuns(){
         System.out.println("Kholi Runs : "+runs);
