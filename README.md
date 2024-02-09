@@ -36,7 +36,7 @@ I have successfully completed the NPTEL - Programming in Java course. Here is my
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/kabilankavi131/Algorithms_Using_Java.git`
+1. Clone this repository: `git clone https://github.com/kabilankavi131/Programming_In_Java.git`
 2. Navigate to the specific topic folder to access the code and notes.
 
 ## Prerequisites
