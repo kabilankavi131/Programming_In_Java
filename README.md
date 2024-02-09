@@ -1,6 +1,6 @@
-# NPTEL Programming in Java Course
+# NPTEL - Programming in Java Course
 
-![NPTEL Logo](Images/logo.png)
+[![NPTEL Logo](Images/logo.png)](https://www.nptel.ac.in/)
 
 ## Overview
 
@@ -30,13 +30,13 @@ This repository contains my solutions and notes for the NPTEL Java Programming c
 
 ## Certification
 
-I have successfully completed the NPTEL Java Programming course. Here is my certification:
+I have successfully completed the NPTEL - Programming in Java course. Here is my certification:
 
-![NPTEL Java Programming Certification](Images/certification.png)
+[![NPTEL Java Programming Certification](Images/certification.png)](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL23CS74S3338137520206777)
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone this repository: `git clone https://github.com/kabilankavi131/Algorithms_Using_Java.git`
 2. Navigate to the specific topic folder to access the code and notes.
 
 ## Prerequisites
